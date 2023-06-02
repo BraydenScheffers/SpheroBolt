@@ -55,4 +55,4 @@ async function startProgram() {
 //End 
 }
 
-//Could make all different functions and call here for longer code, but simpler tracing for issues. 
+//Could make all different functions and call here for longer code, but simpler tracing/tracking for issues. 
